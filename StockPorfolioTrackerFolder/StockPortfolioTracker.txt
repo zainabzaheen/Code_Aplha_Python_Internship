@@ -1,2 +1,0 @@
-	 Stock 	 Quantity 	 Price 	 Total 
-BR ,1,300,300TN ,2,175,350SC ,2,120,240JS ,2,180,360CT ,2,200,400 Total Investment,,,1650
